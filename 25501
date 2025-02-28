@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Profile</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Your Name</h1>
+            <p>Freelance Writer | AI Content Creator | Developer</p>
+            <a href="#contact" class="btn">Contact Me</a>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Welcome! I'm a content creator and developer specializing in AI-powered content writing and automation. I help businesses create engaging content with efficiency.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Services</h2>
+            <ul>
+                <li>SEO Blog & Article Writing</li>
+                <li>AI-Powered Copywriting</li>
+                <li>Website Content Creation</li>
+                <li>Automation & AI Workflows</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Email: yourname@example.com</p>
+            <p>LinkedIn: <a href="#">Your Profile</a></p>
+            <p>Twitter: <a href="#">@yourhandle</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
